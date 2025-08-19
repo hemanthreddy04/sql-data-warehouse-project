@@ -3,8 +3,8 @@
 -- Purpose: Initialize the Data Warehouse database and create schemas
 -- WARNING: This script DROPS and RECREATES the 'DataWarehouse' database.
 --          Any existing data inside this database will be permanently deleted.
--- Author: [Your Name/Team]
--- Date: [Current Date]
+-- Author: KAMBHAM HEMANTH REDDY
+-- Date: 19/08/2025
 -- ===================================================
 
 -- Step 0: Switch context to the master system database.
