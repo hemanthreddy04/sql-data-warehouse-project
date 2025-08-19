@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-A modern data warehouse built with SQL Server, featuring ETL processes for data integration and transformation. It includes structured data modeling and analytics to deliver business-ready insights.
+This project focuses on building a modern data warehouse with SQL Server, covering the complete lifecycle of data engineering. It includes ETL processes for extracting raw data from multiple sources, transforming and cleansing it in structured layers (Bronze, Silver, Gold), and loading it into the warehouse. The project also implements data modeling techniques (fact, dimension, and aggregate tables) to create a business-ready schema. Finally, it enables analytics and reporting, providing curated insights to support data-driven decision-making.
